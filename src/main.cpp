@@ -6,7 +6,7 @@ int main() {
     printf("Rule Breaker!!!\n");
     printf("5 + 2 = %d\n", addNumber(5, 2));
     printf("%d\n", getTriangleType(3, 4, 5));
-    return 0;
+    return 0; //練習 qw
 }
 #endif // TEST
 
